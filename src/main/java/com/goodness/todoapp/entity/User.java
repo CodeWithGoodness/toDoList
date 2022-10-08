@@ -1,4 +1,4 @@
-package com.goodness.projects.todoapp.com.goodness.projects.todoapp.entity;
+package com.goodness.todoapp.entity;
 
 import java.util.List;
 
