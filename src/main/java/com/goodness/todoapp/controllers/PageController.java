@@ -7,7 +7,7 @@ import org.springframework.web.bind.annotation.GetMapping;
 public class PageController {
 
 	@GetMapping("/")
-	public String getWelcome() {
-		return "Welcome to TODO";
+	public String getWelcome(){
+		return "Welcome";
 	}
 }

@@ -1,4 +1,4 @@
-package com.goodness.projects.todoapp;
+package com.goodness.todoapp.springbootapp;
 
 //import org.springframework.beans.factory.annotation.Autowired;
 //import org.springframework.boot.CommandLineRunner;
