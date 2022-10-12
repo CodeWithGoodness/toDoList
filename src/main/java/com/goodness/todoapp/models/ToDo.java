@@ -11,6 +11,7 @@ import javax.persistence.Id;
 import lombok.Getter;
 import lombok.Setter;
 
+@SuppressWarnings("serial")
 @Entity
 public class ToDo implements Serializable{
 	@Id
